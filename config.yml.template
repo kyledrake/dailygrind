@@ -1,0 +1,4 @@
+client_id: 1234blahblah
+client_secret: 1234blahblah
+redirect_uri: http://example.org/coolwebsite
+session_secret: 1234blahblah
