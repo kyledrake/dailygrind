@@ -1,6 +1,6 @@
 source :rubygems
 gem 'sinatra'
-gem 'geoloqi'
+gem 'sinatra-geoloqi'
 gem 'hashie'
 
 group :development do
